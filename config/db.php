@@ -2,8 +2,8 @@
 
 return [
     'class' => 'yii\db\Connection',
-    'dsn' => 'mysql:host=php-yii2guestbook.rhcloud.com;dbname=php',
-    'username' => 'adminWR2my3k',
-    'password' => ' LiFh8xpT8Btf',
+    'dsn' => 'mysql:host=100trainee.andersenlab.com;dbname=100trainee',
+    'username' => '100trainee',
+    'password' => '100trainee123321',
     'charset' => 'utf8',
 ];
